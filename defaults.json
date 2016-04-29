@@ -1,6 +1,4 @@
 {
 	"codename": "bdlb",
-	"www": {
-		"host": "http://localhost:3000"
-	}
+  "www_host": "http://localhost:3000"
 }
