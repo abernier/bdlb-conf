@@ -1,0 +1,6 @@
+{
+	"www": {
+		"host": "http://localhost:3000",
+		"supported_locales": "fr"
+	}
+}

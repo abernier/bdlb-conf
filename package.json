@@ -1,0 +1,27 @@
+{
+  "name": "bdlb-conf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "bdlbconf": "./bin/get.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goodenough/bdlb-conf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goodenough/bdlb-conf/issues"
+  },
+  "homepage": "https://github.com/goodenough/bdlb-conf#readme",
+  "dependencies": {
+    "optimist": "0",
+    "rc": "^1.1.6",
+    "tea-properties": "^0.1.1"
+  }
+}
